@@ -7,3 +7,5 @@ Hola, mi nombre es Alfredo Bonell y soy un desarrollador de software entusiasta 
 GitHub: @AlfredoBonell (https://github.com/AlfredoBonell)
 
 LinkedIn: https://www.linkedin.com/in/alfredobonell/
+
+Repositorio donde subieron las katas realizadas de los módulos correspondientes: (https://github.com/AlfredoBonell/Katas-AlfredoBonell-LaunchX)
